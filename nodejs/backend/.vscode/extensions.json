@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "formulahendry.auto-rename-tag",
+        "formulahendry.code-runner",
+        "naumovs.color-highlight",
+        "clinyong.vscode-css-modules",
+        "dsznajder.es7-react-js-snippets",
+        "kisstkondoros.vscode-gutter-preview",
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "ms-ceintl.vscode-language-pack-pt-br",
+        "prisma.prisma",
+        "prisma.prisma-insider",
+        "syler.sass-indented",
+        "bradlc.vscode-tailwindcss",
+        "bajdzis.vscode-database"
+    ]
+}
